@@ -2,3 +2,5 @@ numpy==1.26.0
 auto-sklearn==0.15.0
 autgluon==1.2
 kagglehub==0.3.12
+relbench==1.10
+torch_geometric==2.6.1
